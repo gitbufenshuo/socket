@@ -1,4 +1,4 @@
-# socket is a seed for socket programming with Golang .Uhmm, more that.
+# socket is a seed for socket programming with Golang .Uhmm, and more on that.
 
 ### go get github.com/gitbufenshuo/socket
 ### Then find the binary executable file in you $gobin
